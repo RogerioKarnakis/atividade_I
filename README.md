@@ -22,5 +22,5 @@ O alarme ajuda a lembrar de tarefas ou eventos em um horário específico em int
 # Conclusão:
 
 Durante o desenvolvimento aprendi a trabalhar com entrada de dados do usuário, manipulação de loopings e controle de tempo em Pyton.
-Também pratiquei a criação de um repositório no Github e documentação clara de um projeto seguindo boas práticas de organização e apresentação 
+Também pratiquei a criação de um repositório no GitHub e documentação clara de um projeto seguindo boas práticas de organização e apresentação 
 para fins acadêmicos.
